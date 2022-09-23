@@ -7,6 +7,8 @@ describe('Funcionalidade: Login', () => {
         cy.visit('/login')
     });
     it('Cadastrar usuário com sucesso', () => {
-        
+        cy.fixture("usuario").then((user) => {
+
+        })
     });
 });
