@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Sanctiis/cypress-dojo-ambev#readme",
   "devDependencies": {
     "cypress": "^10.8.0"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
   }
 }
